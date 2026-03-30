@@ -1,0 +1,10 @@
+{
+  "name": "v3-liquidity-rebalancer",
+  "version": "1.0.0",
+  "description": "Automated tick-range management for V3 POL",
+  "dependencies": {
+    "@uniswap/v3-periphery": "^1.4.3",
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0"
+  }
+}
